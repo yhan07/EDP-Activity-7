@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\librarysystem\librarysystem\obj\Debug\librarysystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\librarysystem\librarysystem\obj\Debug\librarysystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\librarysystem\librarysystem\obj\Debug\librarysystem.exe.config
+C:\Users\User\source\repos\librarysystem\librarysystem\obj\Debug\Interop.Accessibility.dll
